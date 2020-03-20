@@ -1,0 +1,6 @@
+PARA COPIAR LA VERSIÓN ANTIGUA
+
+git checkout "la ruta del log que sea" .
+
+El punto es super imortante, ya que sin él solamente nos llevaría al commit del que tenemos la ruta. Al poner el punto
+directamente copiariamos el contenido del commit al master.
