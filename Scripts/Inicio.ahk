@@ -17,7 +17,7 @@ F8::
             Click
             mouseMove, 670, 400, 20
             Click
-            sleep 2500
+            sleep 4000
             mouseMove, 500, 550, 20
             Click
             
